@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="enabled">With GST</string>
+    <string name="disabled">Without GST</string>
+    <string name="off">Without service charge</string>
+    <string name="on">With service charge</string>
+</resources>
